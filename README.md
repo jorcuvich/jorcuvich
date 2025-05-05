@@ -2,7 +2,7 @@
 
 # 👨‍💻 Wagner Jorcuvich
 
-Oi! Eu sou o Wagner — professor, programador, pesquisador e entusiasta de café (qualquer um) ☕ e algoritmos espertos. Atualmente ensino Engenharia de Software e Computação na graduação e no técnico, mas já rodei por várias áreas: desde mercado financeiro até desenvolvimento de soluções educacionais com metodologias ágeis.
+Atualmente ensino Engenharia de Software e Computação na graduação e no técnico, mas já rodei por várias áreas: desde mercado financeiro até desenvolvimento de soluções educacionais com metodologias ágeis.
 
 ---
 
@@ -41,7 +41,7 @@ Oi! Eu sou o Wagner — professor, programador, pesquisador e entusiasta de caf�
 
 ## 📊 Também já trabalhei com...
 
-- Mercado financeiro (aluguel de ações, middle office, ALM)
+- Mercado financeiro (aluguel de ações, Risco, ALM)
 - Desenvolvimento de sistemas e modelagem de dados
 - Criação de jogos didáticos pra ensino de exatas
 
@@ -50,7 +50,7 @@ Oi! Eu sou o Wagner — professor, programador, pesquisador e entusiasta de caf�
 ## 🗣️ Idiomas
 
 - 🇧🇷 Português — nativo
-- 🇬🇧 Inglês — desenrolo bem
+- 🇬🇧 Inglês — desenrolo
 
 ---
 
