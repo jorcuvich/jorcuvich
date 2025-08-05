@@ -47,7 +47,7 @@ Atualmente ensino Engenharia de Software e Computação na graduação e no téc
 
 ---
 
-## 🗣️ Idiomas
+## Idiomas
 
 - 🇧🇷 Português — nativo
 - 🇬🇧 Inglês — desenrolo
